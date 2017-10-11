@@ -1,12 +1,12 @@
 {
-  "name": "MEAN Contact List",
-  "description": "Example contact list app using MEAN",
+  "name": "Crypton - Waitlist",
+  "description": "Crpyton's waitlist will provide the the best sevice to it's first customers",
   "keywords": [
-    "MEAN",
-    "Angular",
-    "Node",
-    "MongoDB",
-    "mLab"
+    "Crypton",
+    "Cryptocurrency",
+    "Bitcoin",
+    "Ethereum",
+    "Investment"
   ],
   "repository": "https://github.com/chrisckchang/mean-contactlist-angular2",
   "success_url": "/",
